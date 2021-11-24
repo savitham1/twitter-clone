@@ -1,12 +1,11 @@
 # twitter-clone
 
+Kindly use the link to view the website: 
+https://peaceful-meitner-c4a9e6.netlify.app/a8/twitter/home
 
 Technologies: JavaScript • HTML • CSS • Bootstrap • Redux • React.js • Node.js • MongoDB • Fontawesome.
 
 Note: Implementation details are private as the project is work in progress and part of ongoing course curriculum.
-
-Kindly use the link to view the website: 
-https://peaceful-meitner-c4a9e6.netlify.app/a8/twitter/home
 
 - Implemented Home, Explore, and Profile pages of twitter like web application. 
 - Use reactive Navigation side bar to select a pages home, explore, and profile.
